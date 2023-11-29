@@ -1,0 +1,1 @@
+import stylings from '@/app/ui/register.module.css';
